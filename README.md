@@ -12,12 +12,12 @@ To view the website locally on your computer, follow these steps:
 
 1. **Clone the Repository**: 
     ```bash
-    git clone https://github.com/your-username/portfolio-website.git
+    git clone https://github.com/UmerGhaus/portfolio_web.git
     ```
 
 2. **Navigate to the Project Directory**:
     ```bash
-    cd portfolio-web
+    cd portfolio_web
     ```
 
 3. **Open the Website**:
